@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="styles.css" />
+    <title>TV Shows</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>TV Shows Search</h1>
+      <form>
+        <input
+          type="text"
+          placeholder="Search"
+          name="query" />
+        <div class="buttons">
+          <button id="search">Search</button>
+          <button
+            id="clear"
+            type="button">
+            Clear
+          </button>
+        </div>
+      </form>
+      <div id="image-container"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
