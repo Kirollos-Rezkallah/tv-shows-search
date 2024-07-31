@@ -20,7 +20,7 @@ This is a simple web application that allows users to search for TV shows and di
 
 ## Live Demo
 
-[Link to the hosted app](your-hosted-app-link)
+[Link to the hosted app](https://kirollos-rezkallah.github.io/tv-shows-search/)
 
 ## Credits
 
