@@ -1,6 +1,6 @@
 // app.test.js
 const axios = require("axios");
-const { displayImages } = require("../helpers"); // Adjust if needed based on your project structure
+// const { displayImages } = require("../helpers"); // Adjust if needed based on your project structure
 
 jest.mock("axios");
 

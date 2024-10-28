@@ -1,4 +1,4 @@
-const { displayImages } = require("./helpers.js");
+// const { displayImages } = require("./helpers.js");
 const form = document.querySelector("form");
 const imageContainer = document.querySelector("#image-container");
 const clearButton = document.querySelector("#clear");
